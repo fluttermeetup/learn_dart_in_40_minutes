@@ -18,7 +18,7 @@ void main() {
   // Customer logs in, purchases products, and adds reviews
   customer.login();
   customer.purchaseProduct(book);
-  customer.addReview('Learn Dart Language in 40 Minutesis a great book for learning Dart.');
+  customer.addReview('Learn Dart Language in 40 Minutes for Beginners is a great book for learning Dart.');
   customer.purchaseProduct(laptop);
   customer.addReview('The Laptop is fast and lightweight.');
   customer.logout();
