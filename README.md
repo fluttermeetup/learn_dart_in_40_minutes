@@ -1,6 +1,12 @@
 # Learn Dart in 40 Minutes - Source Code
 
-Welcome to the official repository for the book **Learn Dart Language in 40 Minutes**, supported by Dynotes Mobile Technology LTD. This repository contains all the source code examples and practical projects covered in the book, designed to help you master Dart programming quickly and effectively.
+Welcome to the official repository for the book **Learn Dart Language in 40 Minutes for Beginners**, supported by Dynotes Mobile Technology LTD. This repository contains all the source code examples and practical projects covered in the book, designed to help you master Dart programming quickly and effectively.
+
+## Support
+
+If you find this project helpful, please consider supporting it:
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=4UYTZDTVXGJZ2)
 
 ## Table of Contents
 
@@ -17,13 +23,7 @@ Welcome to the official repository for the book **Learn Dart Language in 40 Minu
 
 ## Introduction
 
-This repository is a companion to the book **Learn Dart Language in 40 Minutes.** It includes the full source code for each chapter, providing practical examples and projects that cover a wide range of Dart programming concepts. Whether you're a beginner or an experienced developer, these examples will help reinforce your understanding of Dart and give you the tools to build real-world applications.
-
-## Support
-
-If you find this project helpful, please consider supporting it:
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=4UYTZDTVXGJZ2)
+This repository is a companion to the book **Learn Dart Language in 40 Minutes for Beginners.** It includes the full source code for each chapter, providing practical examples and projects that cover a wide range of Dart programming concepts. Whether you're a beginner or an experienced developer, these examples will help reinforce your understanding of Dart and give you the tools to build real-world applications.
 
 ## Projects and Code Examples
 
