@@ -4,7 +4,7 @@ Welcome to the official repository for the book **Learn Dart Language in 40 Minu
 
 ## Support
 
-If you find this project helpful, please consider supporting it:
+If you'd like a copy of the e-book, you can make a donation. Thank you for your generosity!
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=4UYTZDTVXGJZ2)
 
