@@ -6,14 +6,14 @@ Welcome to the official repository for the book **Learn Dart Language in 40 Minu
 
 If you find this project helpful, please consider supporting it:
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=4UYTZDTVXGJZ2)
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=4UYTZDTVXGJZ2)
 
 ## Table of Contents
 
 - [Learn Dart in 40 Minutes - Source Code](#learn-dart-in-40-minutes---source-code)
+	- [Support](#support)
 	- [Table of Contents](#table-of-contents)
 	- [Introduction](#introduction)
-	- [Support](#support)
 	- [Projects and Code Examples](#projects-and-code-examples)
 		- [Key Topics Covered:](#key-topics-covered)
 	- [How to Use This Repository](#how-to-use-this-repository)
