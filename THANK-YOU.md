@@ -10,6 +10,8 @@ If you haven't received your e-book copy within 12 hours, please kindly send a q
 
 Your support enables me to keep sharing knowledge and make programming more accessible to everyone.
 
+Should you have any questions/suggestions, please feel free to reach out to me via my LinkedIn: https://www.linkedin.com/in/yufeng-chen-ca/
+
 Stay connected and look out for more exciting resources!
 
 Best regards,  

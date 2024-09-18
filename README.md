@@ -8,10 +8,16 @@ If you find this project helpful, please consider supporting it:
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=4UYTZDTVXGJZ2)
 
+## Contact
+
+Should you have any questions/suggestions, please feel free to reach out to me via my LinkedIn: https://www.linkedin.com/in/yufeng-chen-ca/
+
+
 ## Table of Contents
 
 - [Learn Dart in 40 Minutes - Source Code](#learn-dart-in-40-minutes---source-code)
 	- [Support](#support)
+	- [Contact](#contact)
 	- [Table of Contents](#table-of-contents)
 	- [Introduction](#introduction)
 	- [Projects and Code Examples](#projects-and-code-examples)
@@ -67,3 +73,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
